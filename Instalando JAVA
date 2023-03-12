@@ -1,0 +1,6 @@
+Para instalar Java en linux basta con seguir el siguiente proc:
+  1.- instalar via snap (o biblioteca de ubuntu) el IDE Eclipse:
+          sudo snap install eclipse
+      Una vez instalado podremos acceder a el escribiendo eclipse en cualquier terminal.
+  2.- Utilizamos el comando java -version para ver si tenemos instalado java. si no lo tenemos nos muestra las opciones de instalacion
+  3.- Ejecutamos sudo apt openjdk-19-jre (o la correspondiente, en mi caso 19)
